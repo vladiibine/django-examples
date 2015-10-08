@@ -8,7 +8,7 @@ setup(
     license='MIT',
     author='Vlad-George Ardelean',
     include_package_data=True,
-    package_data={'model_select_customized': ['db.sqlite3']},
+    package_data={'widget_customization': ['db.sqlite3']},
     author_email='',
     description='Example project showing various admin customization options',
     install_requires=['Django>=1.8,<1.9'],
