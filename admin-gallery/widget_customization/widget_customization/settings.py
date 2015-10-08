@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'widget_customization.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'model_select_customized/db.sqlite3'),
+        'NAME': os.path.join(BASE_DIR, 'widget_customization/db.sqlite3'),
     }
 }
 
