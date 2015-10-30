@@ -9,3 +9,7 @@
     You'll see explanations in the code how that was implemented.
     The simpler (and more hackish) customization (that adds `>>><<<`)is done in the admin
     The more complex customization, that adds the age of the author, is done in models.py
+
+5. This is the end result: Notice the `>>><<<` and the `(year)` close to the name of the authors 
+
+![](https://github.com/vladiibine/django-examples/blob/master/admin-gallery/widget_customization/model_select_customized/static/django-example-1.png)
