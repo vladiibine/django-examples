@@ -37,7 +37,8 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'model_select_customized'
+    'model_select_customized',
+    'admin_complex_filter',
 )
 
 MIDDLEWARE_CLASSES = (
